@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Быстрая помощь в Telegram
+    url: https://t.me/meowhud
+    about: Вопросы по настройке, оплате и аккаунту — быстрее всего ответим здесь.
+  - name: Сообщество в Discord
+    url: https://discord.gg/6Dddscg38H
+    about: Обсуждения, идеи и помощь от других пользователей.
+  - name: Документация
+    url: https://guide.meowhud.ru
+    about: Установка, настройка игры, OBS, худ, сцены и тарифы.

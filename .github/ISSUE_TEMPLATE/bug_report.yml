@@ -1,0 +1,45 @@
+name: Ошибка в программе
+description: Что-то работает не так, как должно
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо, что сообщаете об ошибке. Не пишите сюда почту, пароль и данные оплаты: issue видны всем.
+  - type: input
+    id: version
+    attributes:
+      label: Версия MeowHUD
+      description: Видна в профиле программы или в названии установщика
+      placeholder: 1.4.104
+    validations:
+      required: true
+  - type: dropdown
+    id: game
+    attributes:
+      label: Игра
+      options:
+        - CS2
+        - Dota 2
+        - Не связано с игрой
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Что случилось
+      description: Что вы делали, что ожидали увидеть и что произошло
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как повторить
+      placeholder: |
+        1. Открыть «Трансляция» → «Худ»
+        2. ...
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Скриншоты или видео
+      description: Перетащите файлы сюда

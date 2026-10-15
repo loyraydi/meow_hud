@@ -1,0 +1,15 @@
+name: Идея или пожелание
+description: Чего не хватает в MeowHUD для вашего эфира
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Что хотите добавить или изменить
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Зачем это вашему эфиру
+      description: Пример турнира или ситуации, где это пригодится
