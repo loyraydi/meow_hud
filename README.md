@@ -33,7 +33,7 @@ MeowHUD — программа для тех, кто показывает CS2 и
 
 ### Худ для CS2 и Dota 2
 
-<img src="images/hud-pawscope.webp" alt="Худ PawScope для CS2" width="49%"> <img src="images/hud-glamoore.webp" alt="Худ Glamoore для CS2" width="49%">
+<img src="images/hud-cs2-1.webp" alt="Худ MeowHUD для CS2: счёт, радар, игроки и киллфид" width="49%"> <img src="images/hud-cs2-2.webp" alt="Худ MeowHUD для CS2 с логотипами команд" width="49%">
 
 - Готовые худы для CS2 и Dota 2: счёт, игроки, экономика, радар, бомба, киллфид, MVP раунда.
 - **Свои цвета сторон** и логотипы команд: худ выглядит как часть вашего турнира.
