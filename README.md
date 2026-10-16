@@ -101,6 +101,7 @@ Windows 10 или 11 (64-bit), 8 ГБ ОЗУ, CS2 и/или Dota 2 в Steam. OBS
 
 - Документация: [guide.meowhud.ru](https://guide.meowhud.ru)
 - Telegram: [@meowhud](https://t.me/meowhud)
+- Почта: [support@meowhud.ru](mailto:support@meowhud.ru)
 - Discord: [discord.gg/6Dddscg38H](https://discord.gg/6Dddscg38H)
 
 Нашли ошибку? Откройте [issue](../../issues/new/choose) или напишите в Telegram.
